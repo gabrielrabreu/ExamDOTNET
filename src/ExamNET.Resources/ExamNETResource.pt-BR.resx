@@ -117,20 +117,65 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="And" xml:space="preserve">
+    <value>e</value>
+  </data>
   <data name="DISYLABLLE" xml:space="preserve">
     <value>Dissílabas</value>
+  </data>
+  <data name="Eight" xml:space="preserve">
+    <value>oito</value>
+  </data>
+  <data name="Five" xml:space="preserve">
+    <value>cinco</value>
+  </data>
+  <data name="Four" xml:space="preserve">
+    <value>quatro</value>
   </data>
   <data name="GoodLuck" xml:space="preserve">
     <value>Boa sorte :)</value>
   </data>
+  <data name="Hundred" xml:space="preserve">
+    <value>centena</value>
+  </data>
+  <data name="Hundreds" xml:space="preserve">
+    <value>centenas</value>
+  </data>
   <data name="MATHEMATICS" xml:space="preserve">
     <value>Avaliação de Aprendizagem de Matemática</value>
+  </data>
+  <data name="MATHEMATICS_DECOMPOSE" xml:space="preserve">
+    <value>Decomponha os números</value>
   </data>
   <data name="MATHEMATICS_DICTATION" xml:space="preserve">
     <value>Ditado de números</value>
   </data>
+  <data name="MATHEMATICS_FOUR_OPERATIONS" xml:space="preserve">
+    <value>Arme e efetue as 4 operações</value>
+  </data>
+  <data name="MATHEMATICS_LOGIC" xml:space="preserve">
+    <value>Resolva as questões problemas</value>
+  </data>
+  <data name="MATHEMATICS_PREDECESSOR_SUCCESSOR" xml:space="preserve">
+    <value>Escreva o antecessor e o sucessor dos números abaixo</value>
+  </data>
+  <data name="MATHEMATICS_WRITE_EXTENSE" xml:space="preserve">
+    <value>Escreva por extenso os números abaixo</value>
+  </data>
+  <data name="MATHEMATICS_WRITE_NUMBER" xml:space="preserve">
+    <value>Escreva quanto é?</value>
+  </data>
   <data name="MONOSYLABLLE" xml:space="preserve">
     <value>Monossílabas</value>
+  </data>
+  <data name="Nine" xml:space="preserve">
+    <value>nove</value>
+  </data>
+  <data name="One" xml:space="preserve">
+    <value>uma</value>
+  </data>
+  <data name="OneThousand" xml:space="preserve">
+    <value>um</value>
   </data>
   <data name="PersonalResponse" xml:space="preserve">
     <value>Resposta de escolha do estudante</value>
@@ -159,10 +204,49 @@
   <data name="Professor" xml:space="preserve">
     <value>Professor</value>
   </data>
+  <data name="Seven" xml:space="preserve">
+    <value>sete</value>
+  </data>
+  <data name="SimpleTextDiv" xml:space="preserve">
+    <value>Paula tem {0} pirulitos e deseja dividir com seus {1} colegas. &lt;br&gt;Quantos pirulitos cada um receberão?</value>
+  </data>
+  <data name="SimpleTextMult" xml:space="preserve">
+    <value>Maria fez {0} pratos de doces. Em cada prato colocou {1} doces. &lt;br&gt;Quantos doces Maria fez?</value>
+  </data>
+  <data name="Six" xml:space="preserve">
+    <value>seis</value>
+  </data>
   <data name="Student" xml:space="preserve">
     <value>Estudante</value>
   </data>
+  <data name="Ten" xml:space="preserve">
+    <value>dezena</value>
+  </data>
+  <data name="Tens" xml:space="preserve">
+    <value>dezenas</value>
+  </data>
+  <data name="Thousand" xml:space="preserve">
+    <value>milhar</value>
+  </data>
+  <data name="Thousands" xml:space="preserve">
+    <value>milhares</value>
+  </data>
+  <data name="Three" xml:space="preserve">
+    <value>três</value>
+  </data>
   <data name="TRISYLABLLE" xml:space="preserve">
     <value>Trissílabas</value>
+  </data>
+  <data name="Two" xml:space="preserve">
+    <value>duas</value>
+  </data>
+  <data name="TwoThousand" xml:space="preserve">
+    <value>dois</value>
+  </data>
+  <data name="Unit" xml:space="preserve">
+    <value>unidade</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>unidades</value>
   </data>
 </root>

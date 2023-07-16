@@ -61,11 +61,47 @@ namespace ExamNET.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to and.
+        /// </summary>
+        public static string And {
+            get {
+                return ResourceManager.GetString("And", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to DISYLABLLE.
         /// </summary>
         public static string DISYLABLLE {
             get {
                 return ResourceManager.GetString("DISYLABLLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Eight.
+        /// </summary>
+        public static string Eight {
+            get {
+                return ResourceManager.GetString("Eight", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Five.
+        /// </summary>
+        public static string Five {
+            get {
+                return ResourceManager.GetString("Five", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Four.
+        /// </summary>
+        public static string Four {
+            get {
+                return ResourceManager.GetString("Four", resourceCulture);
             }
         }
         
@@ -79,11 +115,38 @@ namespace ExamNET.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Hundred.
+        /// </summary>
+        public static string Hundred {
+            get {
+                return ResourceManager.GetString("Hundred", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Hundreds.
+        /// </summary>
+        public static string Hundreds {
+            get {
+                return ResourceManager.GetString("Hundreds", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to MATHEMATICS.
         /// </summary>
         public static string MATHEMATICS {
             get {
                 return ResourceManager.GetString("MATHEMATICS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MATHEMATICS_DECOMPOSE.
+        /// </summary>
+        public static string MATHEMATICS_DECOMPOSE {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_DECOMPOSE", resourceCulture);
             }
         }
         
@@ -97,11 +160,83 @@ namespace ExamNET.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to MATHEMATICS_FOUR_OPERATIONS.
+        /// </summary>
+        public static string MATHEMATICS_FOUR_OPERATIONS {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_FOUR_OPERATIONS", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string MATHEMATICS_LOGIC {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_LOGIC", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MATHEMATICS_PREDECESSOR_SUCCESSOR.
+        /// </summary>
+        public static string MATHEMATICS_PREDECESSOR_SUCCESSOR {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_PREDECESSOR_SUCCESSOR", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MATHEMATICS_WRITE_EXTENSE.
+        /// </summary>
+        public static string MATHEMATICS_WRITE_EXTENSE {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_WRITE_EXTENSE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to .
+        /// </summary>
+        public static string MATHEMATICS_WRITE_NUMBER {
+            get {
+                return ResourceManager.GetString("MATHEMATICS_WRITE_NUMBER", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to MONOSYLABLLE.
         /// </summary>
         public static string MONOSYLABLLE {
             get {
                 return ResourceManager.GetString("MONOSYLABLLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Nine.
+        /// </summary>
+        public static string Nine {
+            get {
+                return ResourceManager.GetString("Nine", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to One.
+        /// </summary>
+        public static string One {
+            get {
+                return ResourceManager.GetString("One", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to one.
+        /// </summary>
+        public static string OneThousand {
+            get {
+                return ResourceManager.GetString("OneThousand", resourceCulture);
             }
         }
         
@@ -187,6 +322,42 @@ namespace ExamNET.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Seven.
+        /// </summary>
+        public static string Seven {
+            get {
+                return ResourceManager.GetString("Seven", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SimpleTextDiv.
+        /// </summary>
+        public static string SimpleTextDiv {
+            get {
+                return ResourceManager.GetString("SimpleTextDiv", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to SimpleTextMult.
+        /// </summary>
+        public static string SimpleTextMult {
+            get {
+                return ResourceManager.GetString("SimpleTextMult", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Six.
+        /// </summary>
+        public static string Six {
+            get {
+                return ResourceManager.GetString("Six", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Student.
         /// </summary>
         public static string Student {
@@ -196,11 +367,92 @@ namespace ExamNET.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Ten.
+        /// </summary>
+        public static string Ten {
+            get {
+                return ResourceManager.GetString("Ten", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Tens.
+        /// </summary>
+        public static string Tens {
+            get {
+                return ResourceManager.GetString("Tens", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thousand.
+        /// </summary>
+        public static string Thousand {
+            get {
+                return ResourceManager.GetString("Thousand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Thousands.
+        /// </summary>
+        public static string Thousands {
+            get {
+                return ResourceManager.GetString("Thousands", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Three.
+        /// </summary>
+        public static string Three {
+            get {
+                return ResourceManager.GetString("Three", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to TRISYLABLLE.
         /// </summary>
         public static string TRISYLABLLE {
             get {
                 return ResourceManager.GetString("TRISYLABLLE", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Two.
+        /// </summary>
+        public static string Two {
+            get {
+                return ResourceManager.GetString("Two", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to two.
+        /// </summary>
+        public static string TwoThousand {
+            get {
+                return ResourceManager.GetString("TwoThousand", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Unit.
+        /// </summary>
+        public static string Unit {
+            get {
+                return ResourceManager.GetString("Unit", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to Units.
+        /// </summary>
+        public static string Units {
+            get {
+                return ResourceManager.GetString("Units", resourceCulture);
             }
         }
     }

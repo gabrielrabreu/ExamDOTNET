@@ -117,20 +117,65 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="And" xml:space="preserve">
+    <value>and</value>
+  </data>
   <data name="DISYLABLLE" xml:space="preserve">
     <value>DISYLABLLE</value>
+  </data>
+  <data name="Eight" xml:space="preserve">
+    <value>Eight</value>
+  </data>
+  <data name="Five" xml:space="preserve">
+    <value>Five</value>
+  </data>
+  <data name="Four" xml:space="preserve">
+    <value>Four</value>
   </data>
   <data name="GoodLuck" xml:space="preserve">
     <value>Good Luck :)</value>
   </data>
+  <data name="Hundred" xml:space="preserve">
+    <value>Hundred</value>
+  </data>
+  <data name="Hundreds" xml:space="preserve">
+    <value>Hundreds</value>
+  </data>
   <data name="MATHEMATICS" xml:space="preserve">
     <value>MATHEMATICS</value>
+  </data>
+  <data name="MATHEMATICS_DECOMPOSE" xml:space="preserve">
+    <value>MATHEMATICS_DECOMPOSE</value>
   </data>
   <data name="MATHEMATICS_DICTATION" xml:space="preserve">
     <value>MATHEMATICS_DICTATION</value>
   </data>
+  <data name="MATHEMATICS_FOUR_OPERATIONS" xml:space="preserve">
+    <value>MATHEMATICS_FOUR_OPERATIONS</value>
+  </data>
+  <data name="MATHEMATICS_LOGIC" xml:space="preserve">
+    <value />
+  </data>
+  <data name="MATHEMATICS_PREDECESSOR_SUCCESSOR" xml:space="preserve">
+    <value>MATHEMATICS_PREDECESSOR_SUCCESSOR</value>
+  </data>
+  <data name="MATHEMATICS_WRITE_EXTENSE" xml:space="preserve">
+    <value>MATHEMATICS_WRITE_EXTENSE</value>
+  </data>
+  <data name="MATHEMATICS_WRITE_NUMBER" xml:space="preserve">
+    <value />
+  </data>
   <data name="MONOSYLABLLE" xml:space="preserve">
     <value>MONOSYLABLLE</value>
+  </data>
+  <data name="Nine" xml:space="preserve">
+    <value>Nine</value>
+  </data>
+  <data name="One" xml:space="preserve">
+    <value>One</value>
+  </data>
+  <data name="OneThousand" xml:space="preserve">
+    <value>one</value>
   </data>
   <data name="PersonalResponse" xml:space="preserve">
     <value>Personal response</value>
@@ -159,10 +204,49 @@
   <data name="Professor" xml:space="preserve">
     <value>Professor</value>
   </data>
+  <data name="Seven" xml:space="preserve">
+    <value>Seven</value>
+  </data>
+  <data name="SimpleTextDiv" xml:space="preserve">
+    <value>SimpleTextDiv</value>
+  </data>
+  <data name="SimpleTextMult" xml:space="preserve">
+    <value>SimpleTextMult</value>
+  </data>
+  <data name="Six" xml:space="preserve">
+    <value>Six</value>
+  </data>
   <data name="Student" xml:space="preserve">
     <value>Student</value>
   </data>
+  <data name="Ten" xml:space="preserve">
+    <value>Ten</value>
+  </data>
+  <data name="Tens" xml:space="preserve">
+    <value>Tens</value>
+  </data>
+  <data name="Thousand" xml:space="preserve">
+    <value>Thousand</value>
+  </data>
+  <data name="Thousands" xml:space="preserve">
+    <value>Thousands</value>
+  </data>
+  <data name="Three" xml:space="preserve">
+    <value>Three</value>
+  </data>
   <data name="TRISYLABLLE" xml:space="preserve">
     <value>TRISYLABLLE</value>
+  </data>
+  <data name="Two" xml:space="preserve">
+    <value>Two</value>
+  </data>
+  <data name="TwoThousand" xml:space="preserve">
+    <value>two</value>
+  </data>
+  <data name="Unit" xml:space="preserve">
+    <value>Unit</value>
+  </data>
+  <data name="Units" xml:space="preserve">
+    <value>Units</value>
   </data>
 </root>

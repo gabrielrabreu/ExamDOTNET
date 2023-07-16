@@ -25,7 +25,7 @@ namespace ExamNET.Domain.Services.Questions.Portuguese
         {
             var questionHtml = new StringBuilder();
 
-            var maxWordLength = words.Max(word => word.Word.Length);
+            var maxLength = words.Max(word => word.Word.Length);
             questionHtml.Append(GetStatement());
 
             foreach (var word in words)
@@ -34,7 +34,7 @@ namespace ExamNET.Domain.Services.Questions.Portuguese
                 wordHtml.Append("<p>");
                 wordHtml.Append("<b>");
                 wordHtml.Append(word.Word);
-                wordHtml.Append(new string(MyConstants.PdfSpaceChar, maxWordLength + 1 - word.Word.Length));
+                wordHtml.Append(new string(MyConstants.PdfSpaceChar, maxLength + 1 - word.Word.Length));
                 wordHtml.Append("= ");
                 wordHtml.Append("</b>");
 
@@ -52,7 +52,7 @@ namespace ExamNET.Domain.Services.Questions.Portuguese
         {
             var answerHtml = new StringBuilder();
 
-            var maxWordLength = words.Max(word => word.Word.Length);
+            var maxLength = words.Max(word => word.Word.Length);
             answerHtml.Append(GetStatement());
 
             foreach (var word in words)
@@ -61,7 +61,7 @@ namespace ExamNET.Domain.Services.Questions.Portuguese
                 wordHtml.Append("<p>");
                 wordHtml.Append("<b>");
                 wordHtml.Append(word.Word);
-                wordHtml.Append(new string(MyConstants.PdfSpaceChar, maxWordLength + 1 - word.Word.Length));
+                wordHtml.Append(new string(MyConstants.PdfSpaceChar, maxLength + 1 - word.Word.Length));
                 wordHtml.Append("= ");
                 wordHtml.Append("</b>");
 

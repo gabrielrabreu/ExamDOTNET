@@ -14,7 +14,7 @@ namespace ExamNET.Domain.Services.Questions.Mathematics
 
         public override QuestionHolder GetHolder()
         {
-            var numbers = Faker.Numbers(_AMOUNT).ToList();
+            var numbers = Faker.Numbers(_AMOUNT, 1, 1000).ToList();
 
             return new QuestionHolder(GetQuestionHtml(),
                                       GetAnswerHtml(numbers));

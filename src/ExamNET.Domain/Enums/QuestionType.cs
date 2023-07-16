@@ -10,6 +10,30 @@ namespace ExamNET.Domain.Enums
         [Display(Name = "MATHEMATICS_DICTATION", ResourceType = typeof(ExamNETResource))]
         MATHEMATICS_DICTATION,
 
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_PREDECESSOR_SUCCESSOR", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_PREDECESSOR_SUCCESSOR,
+
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_WRITE_EXTENSE", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_WRITE_EXTENSE,
+
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_WRITE_NUMBER", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_WRITE_NUMBER,
+
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_DECOMPOSE", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_DECOMPOSE,
+
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_FOUR_OPERATIONS", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_FOUR_OPERATIONS,
+
+        [Question(Subject.MATHEMATICS)]
+        [Display(Name = "MATHEMATICS_LOGIC", ResourceType = typeof(ExamNETResource))]
+        MATHEMATICS_LOGIC,
+
         [Question(Subject.PORTUGUESE)]
         [Display(Name = "PORTUGUESE_DICTATION", ResourceType = typeof(ExamNETResource))]
         PORTUGUESE_DICTATION,
